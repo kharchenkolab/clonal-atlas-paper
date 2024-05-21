@@ -1,0 +1,19 @@
+cluster	celltype_l2	celltype_l0
+0	Mesenchyme Alx	Mesenchyme
+1	CNS 1	CNS
+2	CNS Emx2	CNS
+3	Mesenchyme 	Mesenchyme
+4	CNS Dlk1	CNS
+5	CNS Sp5	CNS
+6	Nonneural ectoderm	Epithelia
+7	Neuron autonomic 1	PNS
+8	Neural crest	PNS
+9	Mesenchyme Hand	Mesenchyme
+10	CNS Msx3	CNS
+11	CNX Pax5	CNS
+12	Neurons	CNS
+13	CNS Col9	CNS
+14	Dental mesenchyme	Mesenchyme
+15	Neuron sensory	PNS
+16	Neuron autonomic 2	PNS
+17	Last	Mesenchyme

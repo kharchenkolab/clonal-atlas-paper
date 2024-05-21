@@ -1,0 +1,29 @@
+cluster	celltype_l2	celltype_l0
+0	CNS Neural Progenitors 1	CNS
+1	Nonneural ectoderm 1	Epithelia
+2	Nonneural ectoderm 2	Epithelia
+3	Neural crest	PNS
+4	CNS Dorsal progenitors	CNS
+5	Lateral mesoderm	Mesenchyme
+6	Sclerotome	Mesoderm
+7	Cardiac mesenchyme	Mesenchyme
+8	Nonneural ectoderm 3	Epithelia
+9	Non-ectodermal epithelia 	Epithelia
+10	Neuromesodermal progenitor	NMP
+11	Nonneural ectoderm 5	Epithelia
+12	Inhibitory dorsal interneurons	CNS
+13	CNS Neural Progenitors 2	CNS
+14	Presomitic mesoderm	Mesoderm
+15	Nonneural ectoderm 6	Epithelia
+16	Nonneural ectoderm 7	Epithelia
+17	Nonneural ectoderm 8	Epithelia
+18	Mesenchyme	Mesenchyme
+19	CNS Ventral progenitors	CNS
+20	Neuron sensory	PNS
+21	Nonneural ectoderm 9	Epithelia
+22	Neuron autonomic 1	PNS
+23	Neuron autonomic 2	PNS
+24	CNS Ventral neuron	CNS
+25	Liver	Liver
+26	Cardiac mesenchyme 2	Mesenchyme
+27	Lateral mesoderm 2	Mesenchyme
