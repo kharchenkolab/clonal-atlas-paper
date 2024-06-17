@@ -10,7 +10,7 @@ A repository with code and analysis for the paper *Erickson, Isaev et al*.
 - `tools` contains additional functions that are used in Jupyter notebooks.
 
 ## Additional data sources
-* Raw reads and Cell Ranger outputs are reachable via [GEO](),
+* Raw reads and Cell Ranger outputs are reachable via [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269395),
 * Modified TREX algorithm ([original](https://github.com/frisen-lab/TREX)) for clonal barcodes calling is stored on [GitHub](https://github.com/serjisa/TREX.modified),
 * AnnData objects (both clonal and gene expression) and plasmid maps (for chimeric references construction) are available on [Zenodo](https://zenodo.org/records/11406618),
 * Python package `scLiTr` that was used for the analysis is available on [GitHub](https://github.com/kharchenkolab/scLiTr),
