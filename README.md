@@ -14,7 +14,7 @@ A repository with code and analysis for the paper *Erickson, Isaev et al*.
 * Modified TREX algorithm ([original](https://github.com/frisen-lab/TREX)) for clonal barcodes calling is stored on [GitHub](https://github.com/serjisa/TREX.modified),
 * AnnData objects (both clonal and gene expression) and plasmid maps (for chimeric references construction) are available on [Zenodo](https://zenodo.org/records/11406618),
 * Python package `scLiTr` that was used for the analysis is available on [GitHub](https://github.com/kharchenkolab/scLiTr),
-* Interactive Cellxgene web-explorer is located on on Adameyko lab private [Cellxgene browser](https://adameykolab.hifo.meduniwien.ac.at/cellxgene_public/),
+* Interactive Cellxgene web-explorer is located on on Adameyko lab private [Cellxgene browser](https://adameykolab.hifo.meduniwien.ac.at/cellxgene_public/filecrawl/.review/.2024_Erickson_Isaev),
 * Interactive web-app *clones2cells* for simultanious clonal and gene embedding exploration is available on [Streamlit Cloud](https://clones2cells.streamlit.app).
 
 Please don't hesitate to contact me via `sergey.isaev[at]meduniwien.ac.at` if you have any questions regarding the code or gene expression / clonal objects from the paper.
