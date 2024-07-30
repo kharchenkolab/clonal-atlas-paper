@@ -1,4 +1,4 @@
-# Code for the paper "Clonal analysis of murine development reveals novel positional programs directing lineage progression"
+# Code for the paper "Clonal analysis reveals spatial determinants of progenitor fates in embryos"
 A repository with code and analysis for the paper *Erickson, Isaev et al*.
 
 ## Folders description
