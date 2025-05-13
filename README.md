@@ -6,7 +6,7 @@ A repository with code and analysis for the paper *Erickson, Isaev et al*.
 - `01_Embedding_construction` contains notebooks in which we're building gene expression embeddings and annotate them *before adding the layer with clonal information*,
 - `02_Fate_distribution` contains clonal analysis and further hypothesis testing,
 - `03_Perturbations` contains a functional and compositional analysis of the results of mosaic perturbations at single-cell and whole clone levels,
-- `Supplementary` contains some of the additional analysis for the paper,
+- `Supplementary_Notes` contains some of the additional analysis for the Supplementary Note: Simulations and Supplementary Note: Real Data,
 - `tools` contains additional functions that are used in Jupyter notebooks.
 
 ## Additional data sources
