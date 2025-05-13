@@ -12,7 +12,7 @@ A repository with code and analysis for the paper *Erickson, Isaev et al*.
 ## Additional data sources
 * Raw reads and Cell Ranger outputs are reachable via [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269395),
 * Modified TREX algorithm ([original](https://github.com/frisen-lab/TREX)) for clonal barcodes calling is stored on [GitHub](https://github.com/serjisa/TREX.modified),
-* AnnData objects (both clonal and gene expression) and plasmid maps (for chimeric references construction) are available on [Zenodo](https://zenodo.org/records/11406618),
+* AnnData objects (both clonal and gene expression) and plasmid maps (for chimeric references construction) are available on [Zenodo](https://zenodo.org/records/15397247),
 * Python package `scLiTr` that was used for the analysis is available on [GitHub](https://github.com/kharchenkolab/scLiTr),
 * Interactive Cellxgene web-explorer is located on on Adameyko lab private [Cellxgene browser](https://adameykolab.hifo.meduniwien.ac.at/cellxgene_public/filecrawl/2024_Erickson_Isaev),
 * Interactive web-app *clones2cells* for simultanious clonal and gene embedding exploration is available on [Streamlit Cloud](https://clones2cells.streamlit.app).
