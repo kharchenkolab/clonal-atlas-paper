@@ -9,6 +9,8 @@ A repository with code and analysis for the paper *Erickson, Isaev et al*.
 - `Supplementary_Notes` contains some of the additional analysis for the Supplementary Note: Simulations and Supplementary Note: Real Data,
 - `tools` contains additional functions that are used in Jupyter notebooks.
 
+The Excel-file `Samples_description.xlsx` contains all information about samples used for the analtsis (including used plasmids and CRISPR references).
+
 ## Additional data sources
 * Raw reads and Cell Ranger outputs are reachable via [GEO](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE269395),
 * Modified TREX algorithm ([original](https://github.com/frisen-lab/TREX)) for clonal barcodes calling is stored on [GitHub](https://github.com/serjisa/TREX.modified),
